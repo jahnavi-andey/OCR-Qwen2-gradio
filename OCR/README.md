@@ -64,21 +64,17 @@ Make sure to download the **Qwen-2 2B OCR** model checkpoint from Hugging Face:
 
 ### Deployment
 
-Create a hugging face space
+1. Create a hugging face space
 
     ```bash
-    git init
-
-    git add .
-
-    git commit -m "Initial commit"
-
-    git push
+      git init
+      git add .
+      git commit -m "Initial commit"
+      git push
     ```
 
-Access the Deployed App
+2. Access the Deployed App
 
     ```bash
     https://huggingface.co/spaces/jahnaviandey/OCR
-    ```
-
+  ```
